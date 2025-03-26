@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern":
+  [
+    "GW ",
+    "   ",
+    "   "
+
+  ],
+
+  "key":
+  {
+    "G": {
+      "item": "hendersonculinarykitchen:grinder"
+    },
+    "W": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "result": {
+    "item": "hendersonculinarykitchen:flour",
+    "count": 2
+  }
+}

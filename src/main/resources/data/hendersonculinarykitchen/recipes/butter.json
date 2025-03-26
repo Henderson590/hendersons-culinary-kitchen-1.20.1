@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern":
+  [
+    "WS ",
+    "   ",
+    "   "
+
+  ],
+
+  "key":
+  {
+    "W": {
+      "item": "minecraft:water_bucket"
+    },
+    "S": {
+      "item": "hendersonculinarykitchen:salt",
+      "count": 2
+    }
+  },
+  "result": {
+    "item": "hendersonculinarykitchen:butter",
+    "count": 2
+  }
+}

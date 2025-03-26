@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern":
+  [
+    "III",
+    "ISI",
+    " S "
+
+  ],
+
+  "key":
+  {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "hendersonculinarykitchen:spatula",
+    "count": 1
+  }
+}

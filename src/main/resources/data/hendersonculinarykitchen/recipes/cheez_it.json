@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern":
+  [
+    "CC ",
+    "CC ",
+    "   "
+
+  ],
+
+  "key":
+  {
+    "C": {
+      "item": "hendersonculinarykitchen:cheese"
+    }
+  },
+  "result": {
+    "item": "hendersonculinarykitchen:cheez_it",
+    "count": 2
+  }
+}

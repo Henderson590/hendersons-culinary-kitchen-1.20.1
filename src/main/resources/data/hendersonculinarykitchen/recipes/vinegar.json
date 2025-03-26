@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern":
+  [
+    "WU ",
+    "S  ",
+    "   "
+
+  ],
+
+  "key":
+  {
+    "W": {
+      "item": "minecraft:water_bucket"
+    },
+    "U": {
+      "item": "minecraft:sugar",
+      "count": 2
+    },
+    "S": {
+      "item": "hendersonculinarykitchen:salt",
+      "count": 2
+    }
+  },
+  "result": {
+    "item": "hendersonculinarykitchen:vinegar",
+    "count": 2
+  }
+}

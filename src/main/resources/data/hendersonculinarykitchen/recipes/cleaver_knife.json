@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern":
+  [
+    "CCS",
+    "CCS",
+    "  S"
+
+  ],
+
+  "key":
+  {
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "hendersonculinarykitchen:cleaver_knife",
+    "count": 1
+  }
+}

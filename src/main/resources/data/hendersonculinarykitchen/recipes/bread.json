@@ -1,0 +1,10 @@
+{
+  "type": "smelting",
+  "ingredient":
+  {
+    "item": "hendersonculinarykitchen:bread_dough"
+  },
+  "result": "minecraft:bread",
+  "count": 1,
+  "cookingtime": 80
+}

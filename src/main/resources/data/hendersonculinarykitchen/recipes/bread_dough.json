@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern":
+  [
+    "WF ",
+    "EB ",
+    "   "
+
+  ],
+
+  "key":
+  {
+    "W": {
+      "item": "minecraft:water_bucket"
+    },
+    "F": {
+      "item": "hendersonculinarykitchen:flour"
+    },
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "B": {
+      "item": "hendersonculinarykitchen:butter"
+    }
+  },
+  "result": {
+    "item": "hendersonculinarykitchen:bread_dough",
+    "count": 2
+  }
+}

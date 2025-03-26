@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern":
+  [
+    "MV ",
+    "S  ",
+    "   "
+
+  ],
+
+  "key":
+  {
+    "M": {
+      "item": "minecraft:milk_bucket"
+    },
+    "V": {
+      "item": "hendersonculinarykitchen:vinegar"
+    },
+    "S": {
+      "item": "hendersonculinarykitchen:salt"
+    }
+  },
+  "result": {
+    "item": "hendersonculinarykitchen:cheese",
+    "count": 4
+  }
+}

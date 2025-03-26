@@ -1,9 +1,9 @@
 {
 	"schemaVersion": 1,
-	"id": "hendersonhats",
+	"id": "hendersonculinarykitchen",
 	"version": "${version}",
-	"name": "Henderson's Hats",
-	"description": "This is a Fabric mod that adds Henderson's Custom Hats! It includes a variety of different hats and accesories for your player head!",
+	"name": "Henderson's Culinary Kitchen",
+	"description": "This is a Fabric mod that adds Henderson's Custom Food! It includes a variety of different food and snacks to munch on in your Minecraft world!",
 	"authors": [
 		"Henderson"
 	],
@@ -12,26 +12,27 @@
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "MIT",
-	"icon": "assets/hendersonhats/icon.png",
+	"icon": "assets/hendersonculinarykitchen/textures/item/spatula.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.henderson.hendersonhats.HendersonsHats"
+			"net.henderson.hendersonculinarykitchen.HendersonsCulinaryKitchen"
 		],
 		"client": [
-			"net.henderson.hendersonhats.HendersonsHatsClient"
+			"net.henderson.hendersonculinarykitchen.HendersonsCulinaryKitchenClient"
 		],
 		"fabric-datagen": [
-			"net.henderson.hendersonhats.HendersonsHatsDataGenerator"
+			"net.henderson.hendersonculinarykitchen.HendersonsCulinaryKitchenDataGenerator"
 		]
 	},
 	"mixins": [
-		"hendersonhats.mixins.json"
+		"hendersonculinarykitchen.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.16.10",
 		"minecraft": "~1.20.1",
 		"java": ">=17",
+		"geckolib": ">=4.7",
 		"fabric-api": "*"
 	},
 	"suggests": {

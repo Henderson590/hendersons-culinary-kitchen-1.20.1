@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern":
+  [
+    "C  ",
+    " S ",
+    "  S"
+
+  ],
+
+  "key":
+  {
+    "C": {
+      "item": "minecraft:cobblestone"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "hendersonculinarykitchen:grinder",
+    "count": 1
+  }
+}

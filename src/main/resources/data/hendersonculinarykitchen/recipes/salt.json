@@ -1,0 +1,10 @@
+{
+  "type": "smelting",
+  "ingredient":
+  {
+    "item": "minecraft:water_bucket"
+  },
+  "result": "hendersonculinarykitchen:salt",
+  "count": 4,
+  "cookingtime": 20
+}
